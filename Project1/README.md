@@ -5,7 +5,7 @@
 
 ## Project Motivation
 
-For this project i was interested in conducting exploratory data analysis using the Consumer Behavior and Shopping Habits Dataset which can be found [here.](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/code)
+For this project i was interested in conducting exploratory data analysis following the follow the CRISP-DM process on the Consumer Behavior and Shopping Habits Dataset which can be found [here.](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/code)
 
 The questions that i will be answering are as follows:
 
@@ -19,7 +19,7 @@ The link to my jupyter notebook code and all relevent EDA analysis will be found
 
 
 ## Blog Post
-My main findings gethered on my notebook can be found on the blog i wrote [here](https://medium.com/@mohaumasukela/how-to-influence-consumer-buying-behavior-as-a-business-bd99ba4b552f)
+My main findings gethered on my notebook can be found on the blog i wrote Medium and can be accessed  [here](https://medium.com/@mohaumasukela/how-to-influence-consumer-buying-behavior-as-a-business-bd99ba4b552f).
 
 ## Installations
 
