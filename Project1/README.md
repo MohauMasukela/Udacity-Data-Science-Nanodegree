@@ -15,17 +15,21 @@ The questions that i will be answering are as follows:
   
 - What are the most item purchases  and why? As business that information is critical to keep the inventory updated on the clients preferences
 
+The link to my jupyter notebook code and all relevent EDA analysis will be found [here](/Project1/ConsumerBehaviorAnalysis.ipynb)
+
 
 ## Blog Post
-My main findings gethered on my notebook can be found on the blog i wrote
+My main findings gethered on my notebook can be found on the blog i wrote [here](https://medium.com/@mohaumasukela/how-to-influence-consumer-buying-behavior-as-a-business-bd99ba4b552f)
 
 ## Installations
 
-1. ```Pandas``` and ```Numpy``` for data analysis and manipulation.
-2. ```Seaborn```  and ```Matplotlib```  for visualization
-
+- Matplotlib.pyplot, Matplotlib.ticker
+- Pandas
+- Numpy
+- Seaborn
 
 
 
 ## Licensing, Authors,Acknowledgements.
+
 I acknowledge [Kaggle](https://www.kaggle.com/) and special thanks to Sir Sourav Banerjee Associate Data Scientist at CogniTensor.
