@@ -26,26 +26,27 @@ This process is rendered on the flask application which is a user interface that
 #### 3. Flask Webb App ```run.py``` allows the user:
 - To add the message of issue they need help with and an output of relevant categories.
 - Displays visuals of of the saved messages rendered from the database called ```DisasterResponse.db```
-## Files
+## File Structure
 
 ```
-├───app
-│   │   run.py
-│   │
-│   └───templates
-│           go.html
-│           master.html
-│
-├───data
-│       DisasterResponse.db
-│       disaster_categories.csv
-│       disaster_messages.csv
-│       process_data.py
-│
-└───models
-        classifier.pkl
-        train_classifier.py
-   ```
+
+Workspace
+├── app
+│   ├── run.py
+│   └── templates
+│       ├── go.html
+│       └── master.html
+├── data
+│   ├── DisasterResponse.db
+│   ├── disaster_categories.csv
+│   ├── disaster_messages.csv
+│   └── process_data.py
+└── models
+    ├── classifier.pkl
+    └── train_classifier.py
+
+```
+
 
 ## Results
 
