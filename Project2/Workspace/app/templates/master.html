@@ -59,14 +59,6 @@
         </div>
     {% endblock %}
 
-    {% for id in ids %}
-        <div id="{{id}}"></div>
-    {% endfor %}
-
-   
-      
-            
-
             <div class="chart" id="barchart">
             </div>
              
@@ -79,16 +71,6 @@
     Plotly.plot('barchart',graphs,{});
 
 </script>
-
-
-<script type="text/javascript">
-    const graphs = {{graphJSON | safe}};
-    const ids = {{ids | safe}};
-    for(let i in graphs) {
-        Plotly.plot(ids[i], graphs[i].data, graphs[i].layout);
-    }
-</script>
-
 
 </body>
 </html>
