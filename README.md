@@ -16,3 +16,5 @@ This project focused on the end to end process in Data Science whereby you build
 This project is provided by [Appen](https://appen.com/) to build the model for the application to classify the disaster messages
 
 Click [here](Project2/README.md) to view project and all corresponding files and code.
+
+## Project 3:

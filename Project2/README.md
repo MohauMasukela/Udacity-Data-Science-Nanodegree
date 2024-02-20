@@ -26,6 +26,18 @@ This process is rendered on the flask application which is a user interface that
 #### 3. Flask Webb App ```run.py``` allows the user:
 - To add the message of issue they need help with and an output of relevant categories.
 - Displays visuals of of the saved messages rendered from the database called ```DisasterResponse.db```
+
+
+## Instructions on Running the App
+
+1. ETL Pipeline
+   - when you open the data folder in your IDE, you need to add the below commands in terminal of process_data.py  
+      - ```process_data.py``` ```disaster_messages.csv``` ```DisasterResponse.db```
+2. ML Pipeline
+   - when you open the models folder in your IDE, you need to add the below commands in terminal of train_classifier.py 
+     -  ```train_classifier.py``` ```DisasterResponse.db``` ```classifier.pkl```
+
+
 ## File Structure
 
 ```
