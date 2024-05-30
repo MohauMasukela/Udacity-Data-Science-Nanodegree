@@ -17,4 +17,5 @@ This project is provided by [Appen](https://appen.com/) to build the model for t
 
 Click [here](Project2/README.md) to view project and all corresponding files and code.
 
-## Project 3:
+## Project 3: Experimental Design & Recommendations - Recommendations with IBM
+For this project you will analyse the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like. In order to determine which articles to show to each user, you will be performing a study of the data available on the IBM Watson Studio platform.

@@ -38,27 +38,6 @@ This process is rendered on the flask application which is a user interface that
      -  ```train_classifier.py``` ```DisasterResponse.db``` ```classifier.pkl```
 
 
-## File Structure
-
-```
-
-Workspace
-├── app
-│   ├── run.py
-│   └── templates
-│       ├── go.html
-│       └── master.html
-├── data
-│   ├── DisasterResponse.db
-│   ├── disaster_categories.csv
-│   ├── disaster_messages.csv
-│   └── process_data.py
-└── models
-    ├── classifier.pkl
-    └── train_classifier.py
-
-```
-
 
 ## Results
 
