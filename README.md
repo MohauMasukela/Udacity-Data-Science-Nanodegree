@@ -19,3 +19,20 @@ Click [here](Project2/README.md) to view project and all corresponding files and
 
 ## Project 3: Experimental Design & Recommendations - Recommendations with IBM
 For this project you will analyse the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like. In order to determine which articles to show to each user, you will be performing a study of the data available on the IBM Watson Studio platform.
+
+ Click [here](Project3/README.md) to view project and all corresponding files and code.
+
+
+ ## Project 4: Data Scientist Capstone Project
+
+Using PySpark to predict customer churn for a music streaming service. The project involved:
+
+- Loading and cleaning a small subset (128MB) of a full dataset available (12GB)
+- Conducting Exploratory Data Analysis to understand the data and what features are useful for predicting churn
+- Feature Engineering to create features that will be used in the modelling process
+- Modelling using machine learning algorithms such as Logistic Regression, Random Forest, Gradient Boost
+
+
+Click [here](Project4/README.md) to view project and all corresponding files and code.
+
+[Medium Blog](https://medium.com/@mohaumasukela/reasons-for-customer-churn-prediction-with-pyspark-e376e838cfba)
